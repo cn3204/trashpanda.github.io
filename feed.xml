@@ -3,10 +3,30 @@
     <title>Trashpanda</title>
     <link href="https://trashpanda.github.io/feed.xml" rel="self" />
     <link href="https://trashpanda.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-03-22T14:44:55+08:00</updated>
     <author>
         <name>Trashpanda</name>
     </author>
     <id>https://trashpanda.github.io</id>
 
+    <entry>
+        <title>YTY</title>
+        <author>
+            <name>Trashpanda</name>
+        </author>
+        <link href="https://trashpanda.github.io/yty.html"/>
+        <id>https://trashpanda.github.io/yty.html</id>
+
+        <updated>2024-03-22T14:44:55+08:00</updated>
+            <summary>
+                <![CDATA[
+                    kaishi
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>kaishi</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
