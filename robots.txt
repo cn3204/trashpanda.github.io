@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://trashpanda.github.io/sitemap.xml
